@@ -1,9 +1,9 @@
 # This is Labaid Hospital Website.
-# You can take Appoinment Antime.....
-# We Have 1# Digital Test Machine
-# 2# 24/7 Ambulence Service.
-# 3# 24/7 Doctors Service.
-# 4# 24/7 Available  Service in our 6 Brances.
+You can take Appoinment Antime.....
+ We Have 1# Digital Test Machine
+ 2# 24/7 Ambulence Service.
+ 3# 24/7 Doctors Service.
+ 4# 24/7 Available  Service in our 6 Brances.
 
 
 
