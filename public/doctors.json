@@ -6,7 +6,7 @@
         "department": "Dental",
         "time": "10:00-2:00pm",
         "call": "011+56766768",
-        "img": "https://image.freepik.com/free-psd/medical-healthcare-dl-rack-card-flyer_187740-5.jpg"
+        "img": "https://media.istockphoto.com/photos/technology-cuts-my-work-in-half-picture-id1147479249?s=612x612"
     },
     {
         "Id": 2,
@@ -15,7 +15,7 @@
         "department": "Head",
         "time": "10:00-2:00pm",
         "call": "011+56766769",
-        "img": "https://image.freepik.com/free-psd/medical-flyer_8666-175.jpg"
+        "img": "https://media.istockphoto.com/photos/portrait-of-a-doctor-in-a-hospital-picture-id1330446256?s=612x612"
     },
     {
         "Id": 3,
@@ -24,7 +24,7 @@
         "department": "Cardiac",
         "time": "10:00-2:00pm",
         "call": "011+56766768",
-        "img": "https://image.freepik.com/free-psd/medical-flyer-template-design_135461-225.jpg"
+        "img": "https://media.istockphoto.com/photos/female-doctor-writing-on-clipboard-picture-id513992393?s=612x612"
     },
     {
         "Id": 4,
@@ -33,7 +33,7 @@
         "department": "Eye",
         "time": "10:00-2:00pm",
         "call": "011+56766768",
-        "img": "https://image.freepik.com/free-psd/poster-template-healthcare_23-2149001876.jpg"
+        "img": "https://media.istockphoto.com/photos/female-medical-student-stock-photo-picture-id1197684844?s=612x612"
     },
     {
         "Id": 5,
@@ -42,7 +42,7 @@
         "department": "Medicine",
         "time": "10:00-2:00pm",
         "call": "011+56766768",
-        "img": "https://image.freepik.com/free-psd/healthcare-consultant-banner-square-flyer-social-media-post-template_202595-467.jpg"
+        "img": "https://media.istockphoto.com/photos/conducting-further-research-to-improve-her-healthcare-services-picture-id1169499108?s=612x612"
     },
     {
         "Id": 6,
@@ -51,6 +51,6 @@
         "department": "Sex",
         "time": "10:00-2:00pm",
         "call": "011+56766768",
-        "img": "https://image.freepik.com/free-psd/medical-healthcare-flyer-social-media-post-web-promotion-banner-template_135461-324.jpg"
+        "img": "https://media.istockphoto.com/photos/portrait-of-mature-male-doctor-wearing-white-coat-standing-in-picture-id1203995945?s=612x612"
     }
 ]
