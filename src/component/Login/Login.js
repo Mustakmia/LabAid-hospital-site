@@ -10,7 +10,7 @@ const Login = () => {
         <Container>
             <div className="w-50 mx-auto">
                 <div>
-                    <img className="w-50 h-50 mt-5" src="https://images.unsplash.com/photo-1530213786676-41ad9f7736f6?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80" alt="" />
+                    <img className="w-50 h-50 mt-4" src="https://images.unsplash.com/photo-1530213786676-41ad9f7736f6?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80" alt="" />
                 </div>
                 <div className="py-5">
                     <div>
