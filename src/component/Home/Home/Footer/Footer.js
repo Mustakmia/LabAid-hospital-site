@@ -1,14 +1,13 @@
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faFacebookF, } from '@fortawesome/free-brands-svg-icons';
+import { faFacebookF, faGithubSquare, faLinkedinIn, faTwitterSquare } from '@fortawesome/free-brands-svg-icons';
 
 import React from 'react';
 import './Footer.css';
 const Footer = () => {
-    const icon1 = <FontAwesomeIcon icon={['fab', 'github']} />
+    const icon1 = <FontAwesomeIcon icon={faGithubSquare} />
     const icon2 = <FontAwesomeIcon icon={faFacebookF} />
-    const icon3 = <FontAwesomeIcon icon={['fab', 'twitter']} />
-    const icon4 = <FontAwesomeIcon icon={['fab', 'linkedin']} />
-
+    const icon3 = <FontAwesomeIcon icon={faTwitterSquare} />
+    const icon4 = <FontAwesomeIcon icon={faLinkedinIn} />
 
     return (
         <div className="body">
