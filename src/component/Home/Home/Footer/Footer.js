@@ -1,26 +1,29 @@
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faCoffee } from '@fortawesome/free-solid-svg-icons';
+import { faFacebookF, } from '@fortawesome/free-brands-svg-icons';
+
 import React from 'react';
 import './Footer.css';
 const Footer = () => {
-    const element1 = <FontAwesomeIcon icon={faCoffee} />
-    const element2 = <FontAwesomeIcon icon={faCoffee} />
-    const element3 = <FontAwesomeIcon icon={faCoffee} />
-    const element4 = <FontAwesomeIcon icon={faCoffee} />
+    const icon1 = <FontAwesomeIcon icon={['fab', 'github']} />
+    const icon2 = <FontAwesomeIcon icon={faFacebookF} />
+    const icon3 = <FontAwesomeIcon icon={['fab', 'twitter']} />
+    const icon4 = <FontAwesomeIcon icon={['fab', 'linkedin']} />
+
+
     return (
         <div className="body">
             <footer>
                 <div className="waves">
-                    <div className="wave" id="wave_1"></div>
+                    <div class Name="wave" id="wave_1"></div>
                     <div className="wave" id="wave_2"></div>
                     <div className="wave" id="wave_3"></div>
                     <div className="wave" id="wave_4"></div>
                 </div>
                 <ul className="social_icon">
-                    <li>{element1}</li>
-                    <li>{element2}</li>
-                    <li>{element3}</li>
-                    <li>{element4}</li>
+                    <li>{icon1}</li>
+                    <li>{icon2}</li>
+                    <li>{icon3}</li>
+                    <li>{icon4}</li>
                 </ul>
                 <ul className="menu">
                     <li> <a href="http://">Home</a></li>
