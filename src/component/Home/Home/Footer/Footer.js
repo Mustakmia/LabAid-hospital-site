@@ -25,10 +25,10 @@ const Footer = () => {
                     <li>{icon4}</li>
                 </ul>
                 <ul className="menu">
-                    <li> <a href="http://">Home</a></li>
-                    <li> <a href="http://">Service</a></li>
-                    <li> <a href="http://">Appoinment</a></li>
-                    <li> <a href="http://">More</a></li>
+                    <li> <a href="/home">Home</a></li>
+                    <li> <a href="/service">Service</a></li>
+                    <li> <a href="/appoinment">Appoinment</a></li>
+                    <li> <a href="more/">More</a></li>
                 </ul>
                 <p>@2021 Labaid Hospital | All Rights Reserved.</p>
             </footer>
