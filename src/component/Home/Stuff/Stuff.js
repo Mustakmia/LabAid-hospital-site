@@ -16,7 +16,7 @@ const Stuff = () => {
                     </div>
                     <div className="col-12 col-md-7">
                         <div className="stuffGrid mx-auto w-100">
-                            <div style={{ height: '100%', width: '100%', border: '2px solid tomato' }}><img className="w-100 mx-auto h-100" src="https://image.freepik.com/free-photo/smiling-asian-woman-physician-white-coat_9083-2472.jpg" alt="" /></div>
+                            <div style={{ height: '80%', width: '100%', border: '2px solid tomato' }}><img className="w-100 mx-auto h-100" src="https://image.freepik.com/free-photo/smiling-asian-woman-physician-white-coat_9083-2472.jpg" alt="" /></div>
                         </div>
                     </div>
                 </div>

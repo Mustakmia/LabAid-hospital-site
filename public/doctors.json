@@ -1,56 +1,56 @@
 [
     {
         "Id": 1,
-        "name": "Mr.Kamrul Hassan",
+        "name": "Ms. Hassan",
         "expert": "Surgeon",
         "department": "Dental",
-        "time": "10:00-2:00pm",
-        "call": "011+56766768",
+        "time": "24/7",
+        "call": "0123",
         "img": "https://media.istockphoto.com/photos/technology-cuts-my-work-in-half-picture-id1147479249?s=612x612"
     },
     {
         "Id": 2,
-        "name": "Mr. A.K Kalam",
+        "name": "Mr.Dulal",
         "expert": "Surgeon",
         "department": "Head",
-        "time": "10:00-2:00pm",
-        "call": "011+56766769",
+        "time": "24/7",
+        "call": "0123",
         "img": "https://media.istockphoto.com/photos/portrait-of-a-doctor-in-a-hospital-picture-id1330446256?s=612x612"
     },
     {
         "Id": 3,
-        "name": "Mr. Rabby Khan",
+        "name": "Ms.farhan hamid",
         "expert": "Cardiologist",
         "department": "Cardiac",
-        "time": "10:00-2:00pm",
-        "call": "011+56766768",
+        "time": "24/7",
+        "call": "0123",
         "img": "https://media.istockphoto.com/photos/female-doctor-writing-on-clipboard-picture-id513992393?s=612x612"
     },
     {
         "Id": 4,
-        "name": "Mr. Nadim Mahmud",
+        "name": "Ms.Nadia Hasan",
         "expert": "Eye-Epecialist",
         "department": "Eye",
-        "time": "10:00-2:00pm",
-        "call": "011+56766768",
+        "time": "24/7",
+        "call": "0123",
         "img": "https://media.istockphoto.com/photos/female-medical-student-stock-photo-picture-id1197684844?s=612x612"
     },
     {
         "Id": 5,
-        "name": "Mr. Khan",
+        "name": "Ms.Shewly",
         "expert": "Medicine Specialist",
         "department": "Medicine",
-        "time": "10:00-2:00pm",
-        "call": "011+56766768",
+        "time": "24/7",
+        "call": "0123",
         "img": "https://media.istockphoto.com/photos/conducting-further-research-to-improve-her-healthcare-services-picture-id1169499108?s=612x612"
     },
     {
         "Id": 6,
-        "name": "Mss.Sundori",
+        "name": "Mr.Helal",
         "expert": "Sex Specialist",
         "department": "Sex",
-        "time": "10:00-2:00pm",
-        "call": "011+56766768",
+        "time": "24/7",
+        "call": "0123",
         "img": "https://media.istockphoto.com/photos/portrait-of-mature-male-doctor-wearing-white-coat-standing-in-picture-id1203995945?s=612x612"
     }
 ]

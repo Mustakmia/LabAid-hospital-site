@@ -8,7 +8,7 @@ const Banner = () => {
         <img
           style={{ height: '85vh' }}
           className="d-block w-100"
-          src="https://image.freepik.com/free-vector/hospital-building-exterior-modern-clinic-view_43633-7220.jpg"
+          src="https://image.freepik.com/free-photo/medium-shot-health-workers-hospital_23-2148894886.jpg"
           alt="Visit Us"
         />
         <Carousel.Caption >
