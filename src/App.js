@@ -12,6 +12,9 @@ import PrivetRoute from './component/PrivetRoute/PrivetRoute';
 import Services from './component/Services/services';
 import Signup from './component/Signup/Signup';
 import NotFound from './component/NotFound/NotFound'
+import AddDoctor from './component/Home/AddDoctor/AddDoctor';
+import Boking from './Boking/Boking';
+import ManageAddDoctor from './ManageAddDoctor/ManageAddDoctor';
 
 function App() {
   return (
@@ -52,6 +55,19 @@ function App() {
             <PrivetRoute path="/details/:Id">
               <Details />
             </PrivetRoute>
+
+            <Route path="/adddoctor">
+              <AddDoctor />
+            </Route>
+
+            <Route path="/boking">
+              <Boking />
+            </Route>
+
+
+            <Route path="/manageadddoctor">
+              <ManageAddDoctor />
+            </Route>
 
 
             <Route path="*">
